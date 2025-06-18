@@ -1,4 +1,4 @@
-[https://github.com/brenmachine/Blocko/commit/275255a655d58a7f8dd3ca8fbf7cac094c85c88f](https://github.com/brenmachine/Blocko/blob/main/banner.png?raw=true)
+![](https://github.com/brenmachine/Blocko/blob/main/banner.png?raw=true)
 
 This is something I made for fun and to play for fun, because I did not want to get addicted to my 
 phone even more.
